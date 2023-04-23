@@ -15,11 +15,3 @@ The algorithm works by breaking down the exponent into its binary representation
 ## Technologies Used
 
 This website is built using basic HTML, CSS, and JavaScript. The website is designed to be simple and easy to understand, and the modular exponentiation algorithm is implemented in JavaScript.
-
-## Future Improvements
-
-Some potential improvements to the website include adding input validation to ensure that the user inputs are valid, adding error messages if the user inputs are invalid or the calculation fails, and improving the overall design and user interface of the website.
-
-## License
-
-This website is licensed under the MIT License. Feel free to use it or modify it as needed.
